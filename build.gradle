@@ -47,5 +47,5 @@ tasks.named('test') {
 
 javafx {
 	version = "23.0.1"
-	modules = [ 'javafx.base', 'javafx.controls', 'javafx.fxml', 'javafx.controls' ]
+	modules = [ 'javafx.base', 'javafx.controls', 'javafx.fxml', 'javafx.swing' ]
 }
