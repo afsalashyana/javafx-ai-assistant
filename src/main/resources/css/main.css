@@ -1,0 +1,8 @@
+* {
+    -fx-font-size: 12pt;
+    -fx-base: #ffebd5
+}
+
+.text-area-response {
+    -fx-font-family: monospace;
+}
